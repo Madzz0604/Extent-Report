@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-11-09T23:03:47 GMT" name="Default suite" finished-at="2023-11-09T23:03:48 GMT" duration-ms="1365">
+  <suite started-at="2023-11-10T11:21:54 GMT" name="Default suite" finished-at="2023-11-10T11:21:55 GMT" duration-ms="1256">
     <groups>
     </groups>
-    <test started-at="2023-11-09T23:03:47 GMT" name="Default test" finished-at="2023-11-09T23:03:48 GMT" duration-ms="1365">
-      <class name="com.ExtentReports.tests.ExtentReportTest">
-        <test-method signature="extentTest()[pri:0, instance:com.ExtentReports.tests.ExtentReportTest@1649b0e6]" started-at="2023-11-09T23:03:47 GMT" name="extentTest" finished-at="2023-11-09T23:03:48 GMT" duration-ms="1318" status="PASS">
+    <test started-at="2023-11-10T11:21:54 GMT" name="Default test" finished-at="2023-11-10T11:21:55 GMT" duration-ms="1256">
+      <class name="com.ExtentReports.tests.ExtentReportWithCustomization">
+        <test-method signature="extentTest()[pri:0, instance:com.ExtentReports.tests.ExtentReportWithCustomization@4cc8eb05]" started-at="2023-11-10T11:21:54 GMT" name="extentTest" finished-at="2023-11-10T11:21:55 GMT" duration-ms="1195" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- extentTest -->
-      </class> <!-- com.ExtentReports.tests.ExtentReportTest -->
+      </class> <!-- com.ExtentReports.tests.ExtentReportWithCustomization -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
